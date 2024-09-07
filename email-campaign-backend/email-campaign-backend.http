@@ -1,0 +1,6 @@
+@email_campaign_backend_HostAddress = http://localhost:5120
+
+GET {{email_campaign_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

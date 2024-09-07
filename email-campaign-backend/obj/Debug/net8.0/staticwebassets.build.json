@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m4z2nuiEP8Dq79/uNkKP5ayMSNa5NXvtomSsK/xC3Q4=",
+  "Source": "email-campaign-backend",
+  "BasePath": "_content/email-campaign-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
